@@ -56,11 +56,15 @@ The dataset contains information related to layoffs across different companies. 
 
 *Date – Layoff date
 
-*Stage – Business stage (e.g., Startup, Growth)
-
 *Country – Country of operation
 
-*Funds Raised – Investment raised by the company
+
+📌 Note:
+
+The original raw dataset (uncleaned) is also included in this repository.
+It contains inconsistencies, null values, and duplicates.
+The SQL script demonstrates how this raw data is cleaned step-by-step.
+
 
 
 
