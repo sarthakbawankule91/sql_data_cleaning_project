@@ -2,34 +2,60 @@
 
 📌 Project Overview
 
-This project focuses on data cleaning and preprocessing of a layoffs dataset using SQL. Raw datasets often contain inconsistencies such as duplicate records, missing values, and formatting issues.
+This project focuses on data cleaning and preprocessing of a layoffs dataset using SQL. 
+Raw datasets often contain inconsistencies such as duplicate records, missing values, and formatting issues.
+
 
 The objective of this project is to transform raw layoffs data into a clean, consistent, and analysis-ready dataset.
 
+
 🎯 Objectives
-Remove duplicate records
-Standardize inconsistent data
-Handle missing (NULL) values
-Prepare the dataset for analysis and visualization
+*Remove duplicate records
+
+*Standardize inconsistent data
+
+*Handle missing (NULL) values
+
+*Prepare the dataset for analysis and visualization
+
+
+
 🛠️ Tools & Concepts Used
-SQL (MySQL)
-Data Cleaning Techniques
-Window Functions
-Self Joins
-Data Standardization
-Handling NULL Values
+*SQL (MySQL)
+
+*Data Cleaning Techniques
+
+*Window Functions
+
+*Self Joins
+
+*Data Standardization
+
+*Handling NULL Values
+
+
 
 📂 Dataset Description:
 The dataset contains information related to layoffs across different companies. Key attributes include:
+
 Company – Name of the organization
+
 Location – City or region
+
 Industry – Sector of the company
+
 Total Laid Off – Number of employees laid off
+
 Percentage Laid Off – Proportion of workforce affected
+
 Date – Layoff date
+
 Stage – Business stage (e.g., Startup, Growth)
+
 Country – Country of operation
+
 Funds Raised – Investment raised by the company
+
 
 
 Data Cleaning Process📊
@@ -87,6 +113,13 @@ Handling real-world messy datasets
 Techniques for dealing with missing and inconsistent data
 Writing efficient and structured SQL queries
 
+
+📈 Outcome
+*Clean and structured dataset
+
+*Improved data quality
+
+*Ready for analysis and visualization
 
 📌 Conclusion
 Data cleaning is a crucial step in any data analysis project. This project demonstrates how SQL
